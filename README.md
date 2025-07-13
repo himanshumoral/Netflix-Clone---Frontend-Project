@@ -12,7 +12,7 @@ A visually accurate clone of the Netflix homepage built using only **HTML** and 
 - Smooth UI transitions (using CSS only)
 
 ### 👁️‍🗨️ Live Preview
-[Visit Here](https://himanshumoral.github.io/Netflix-Clone/)
+[Visit Here](https://himanshumoral.github.io/Netflix-Clone---Frontend-Project/)
 
 ### 📸 Screenshots:
 ![image](https://github.com/user-attachments/assets/1623acfe-ae42-4521-93c7-1232243437c7)
